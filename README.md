@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👩🏻 iOS Developer
+- 🌱 Swift, Objective-C ...
+- 🌿 currently learning SwiftUI, Combine
+
+- ⚡ Tistory: https://choi-log-life.tistory.com/
+
 <!--
 **eunjooChoi/eunjooChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
