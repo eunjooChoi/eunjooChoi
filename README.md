@@ -5,6 +5,7 @@
 - 🌿 currently learning SwiftUI, Combine
 
 - ⚡ Tistory: https://choi-log-life.tistory.com/
+- ⚡ github pages: https://eunjoochoi.github.io/
 
 <!--
 **eunjooChoi/eunjooChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
