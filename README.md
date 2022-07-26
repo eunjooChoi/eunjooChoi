@@ -2,7 +2,7 @@
 
 - 👩🏻 iOS Developer
 - 🌱 Swift, Objective-C ...
-- 🌿 currently learning SwiftUI, Combine
+- 🌿 currently learning SwiftUI
 
 - ⚡ Tistory: https://choi-log-life.tistory.com/
 - ⚡ github pages: https://eunjoochoi.github.io/
